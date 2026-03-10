@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "二人のこと",
+  "base_artist": "かりん",
+  "createdAt": "2026-03-10T07:44:00.571850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二人のこと - Futari No Koto",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_二人のこと_-_Futari_No_Koto_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人のこと",
+      "artist": "かりん",
+      "has_synced": false,
+      "path": "select/pl_01_二人のこと_かりん.txt"
+    }
+  ]
+}
